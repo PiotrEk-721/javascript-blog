@@ -1,0 +1,8 @@
+npm install npm-run-all --save-dev
+npm install sass --save-dev
+npm install autoprefixer@10.2.4 postcss-cli@8.3.1 postcss@8.2.6 --save-dev
+npm install onchange --save-dev    
+npm install --save-dev browser-sync
+npm install onchange --save-dev
+npm install eslint@^8.57.0 --save-dev
+npm install --save-dev stylelint@14.8.0 stylelint-scss@4.7.0 stylelint-config-standard-scss@4.0.0
