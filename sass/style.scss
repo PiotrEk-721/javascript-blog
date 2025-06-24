@@ -123,3 +123,10 @@ body {
     margin: 0 10px 0 0;
   }
 }
+
+/* Tags */
+@for $i from 1 through 5 {
+  .tag-size-#{$i} {
+    font-size: 15px + $i * 2;
+  }
+}
